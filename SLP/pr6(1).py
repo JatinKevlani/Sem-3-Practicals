@@ -1,0 +1,18 @@
+myList = [3, 1, 2, "ABC", "XYZ", True, False, 6.78, 8.89]
+sortList = [5, 2, 9, 6, 8, 1, 0]
+print("List Created :", myList)
+myList.append("item_added")
+print("Item added")
+print(myList)
+myList.remove("item_added")
+print("Item removed")
+print(myList)
+print(f"Length of string is : {len(myList)}")
+print("Access using index 0 :")
+print(myList[0])
+print("Sorting list :")
+sortList.sort()
+print(sortList)
+print("Reversing list :")
+myList.reverse()
+print(myList)

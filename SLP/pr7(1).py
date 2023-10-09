@@ -1,0 +1,6 @@
+tuple1 = (1, 2, 6.9, "ABC", True)
+print(tuple1)
+listFromTuple = list(tuple1)
+listFromTuple.remove(1)
+tupleFromList = tuple(listFromTuple)
+print(tupleFromList)

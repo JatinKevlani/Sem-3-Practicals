@@ -1,0 +1,1 @@
+print("Slope :", (int(input("Enter y2 : ")) - int(input("Enter y1 : "))) / (int(input("Enter x2 : ")) - int(input("Enter x1 : "))))

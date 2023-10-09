@@ -1,0 +1,1 @@
+print((9 / 5) * int(input("Enter temperature in Celsius : ")) + 32)
