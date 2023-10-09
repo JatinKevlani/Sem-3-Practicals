@@ -1,0 +1,1 @@
+SELECT eName, eSal FROM employees WHERE eSal BETWEEN 5000 AND 15000;

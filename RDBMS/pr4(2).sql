@@ -1,0 +1,1 @@
+select months_between('1-jan-19', '1-may-19') "months between" from dual;

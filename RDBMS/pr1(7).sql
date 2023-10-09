@@ -1,0 +1,2 @@
+ALTER TABLE Students
+ADD address VARCHAR2(100);

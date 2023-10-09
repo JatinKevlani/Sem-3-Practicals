@@ -1,0 +1,1 @@
+select last_day ('18-june-19') "lastday" from dual;

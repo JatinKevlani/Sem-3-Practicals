@@ -1,0 +1,1 @@
+select add_months(TO_DATE('12-jun-2022'),3) from dual;

@@ -1,0 +1,1 @@
+CREATE TABLE c##226170307073.test1 AS SELECT * FROM system.test1;

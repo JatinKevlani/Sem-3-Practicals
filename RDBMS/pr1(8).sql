@@ -1,0 +1,2 @@
+ALTER TABLE Orders
+DROP COLUMN price;
