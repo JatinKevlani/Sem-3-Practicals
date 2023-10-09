@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practical 1</title>
+    <script src="jquery/jquery.js"></script>
+</head>
+<body>
+    <h1 id="content">Hello World</h1>
+    <button id="hide">Hide content</button>
+    <button id="show">Show content</button>
+    <script>
+        $("#hide").click(function(){
+            $("#content").hide();
+        });
+        $("#show").click(function(){
+            $("#content").show();
+        });
+    </script>
+</body>
+</html>
